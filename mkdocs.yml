@@ -1,0 +1,8 @@
+site_name: "app-next-js-demo"
+site_description: "app-next-js-demo"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
